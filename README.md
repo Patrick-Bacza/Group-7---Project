@@ -4,7 +4,8 @@
 #Proposal
 
 The field we are interested in working with is mental health data. Mental health is something that effects everyones lives and it would be impactful to find insights to helps us better understand it. The data we would be working with is a survey about attitudes towards mental health in tech companies. 
-We will clean the data and will perform statistical analysis for the data. 
+
+We will clean the data and will perform all the analysis including statistical analysis to the data.
 
 These are some of the questions we can explore-
 
