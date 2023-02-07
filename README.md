@@ -20,4 +20,4 @@ These are some of the questions we can explore:
 
 
 Data Source: 
-https://www.kaggle.com/code/madeleinekearns/mental-health-survey-explore-w-sql-python-nlp
+(https://www.kaggle.com/datasets/anth7310/mental-health-in-the-tech-industry)
