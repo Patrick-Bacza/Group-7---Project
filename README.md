@@ -11,7 +11,8 @@ These are some of the questions we can explore-
 
 1) Are remote workers less effected by mental health in the workplace? 
 2) Do males or females tend to be more effected by mental health? 
-3) Are employers doing enough to address their employees mental health?
+3) do workers think their employers  are doing enough to address their employees mental health?
 4) Analysis for mental and physical health consequence
 
 Data Source: https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey
+https://www.kaggle.com/code/madeleinekearns/mental-health-survey-explore-w-sql-python-nlp
