@@ -7,7 +7,7 @@ The field we are interested in working with is mental health data. Mental health
 
 We will clean the data and will perform all the analysis including statistical analysis for data sets.
 
-These are some of the questions we can explore-
+These are some of the questions we can explore:
 
 1) Are remote workers less effected by mental health in the workplace? 
 2) Do males or females tend to be more effected by mental health? 
