@@ -11,12 +11,13 @@ These are some of the questions we can explore:
 
 1) Are remote workers less effected by mental health in the workplace? 
 2) Do males or females tend to be more effected by mental health? 
-3) Do workers think their employers  are doing enough to address their employees mental health?
-4) Analysis for mental and physical health consequence 
-5) Are people from certain locations (state/country) more likely to have a mental health disorder?
-6) Are certain job positions more likely to have mental health problems?
-7) Are employees at larger companies more likely to have a mental health disorder?
-8) If you have a mental health condition, do you feel that it interferes with your work?
+3) Does age tend to be more effected by mental health?
+4) Do workers think their employers  are doing enough to address their employees mental health?
+5) Analysis for mental and physical health consequence 
+6) Are people from certain locations (state/country) more likely to have a mental health disorder?
+7) Are certain job positions more likely to have mental health problems?
+8) Are employees at larger companies more likely to have a mental health disorder?
+9) If you have a mental health condition, do you feel that it interferes with your work?
 
 
 Data Source: 
