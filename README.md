@@ -13,6 +13,9 @@ These are some of the questions we can explore-
 2) Do males or females tend to be more effected by mental health? 
 3) Do workers think their employers  are doing enough to address their employees mental health?
 4) Analysis for mental and physical health consequence 
+5) Are people from certain locations (state/country) more likely to have a mental health disorder?
+6) Are certain job positions more likely to have mental health problems?
+7) Are employees at larger companies more likely to have a mental health disorder?
 
 Data Source: 
 https://www.kaggle.com/code/madeleinekearns/mental-health-survey-explore-w-sql-python-nlp
