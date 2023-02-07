@@ -18,4 +18,4 @@ These are some of the questions we can explore:
 7) Are employees at larger companies more likely to have a mental health disorder?
 
 Data Source: 
-https://www.kaggle.com/code/madeleinekearns/mental-health-survey-explore-w-sql-python-nlp
+(https://www.kaggle.com/datasets/anth7310/mental-health-in-the-tech-industry)
