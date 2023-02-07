@@ -16,6 +16,8 @@ These are some of the questions we can explore:
 5) Are people from certain locations (state/country) more likely to have a mental health disorder?
 6) Are certain job positions more likely to have mental health problems?
 7) Are employees at larger companies more likely to have a mental health disorder?
+8) If you have a mental health condition, do you feel that it interferes with your work?
+
 
 Data Source: 
-(https://www.kaggle.com/datasets/anth7310/mental-health-in-the-tech-industry)
+https://www.kaggle.com/code/madeleinekearns/mental-health-survey-explore-w-sql-python-nlp
