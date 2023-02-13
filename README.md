@@ -19,6 +19,16 @@ These are some of the questions we can explore:
 8) Are employees at larger companies more likely to have a mental health disorder?
 9) If you have a mental health condition, do you feel that it interferes with your work?
 
-
 Data Source: 
 (https://www.kaggle.com/datasets/anth7310/mental-health-in-the-tech-industry)
+
+-------------------------------------------------------------------------------------------
+Analysis
+-------------------------------------------------------------------------------------------
+
+While this subject could be studied indefinitely, we decided the following questions to be the best topics for the project:
+
+- Are employers doing enough to address their employees' mental health disorders?
+- If you have a mental health condition, how much does it interfere with your work?
+- Do work conditions such as company size reflect on the number of those with mental health disorders? 
+- Are mental health disorders more common with remote employees?
