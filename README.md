@@ -30,5 +30,5 @@ While this subject could be studied indefinitely, we decided the following quest
 
 - Do certain age groups tend to be more affected by mental health? (Stephen)
 - Are employers doing enough to address their employees' mental health disorders? (Patrick)
-- Do work conditions such as company size, remote work, and job type reflect on the number of those with mental health disorders? (Jay)
+- Do work conditions such as company size, remote work and job type reflect on the number of those with mental health disorders? (Jay)
 - If you have a mental health condition, how much does it interfere with your work? (Hays)
