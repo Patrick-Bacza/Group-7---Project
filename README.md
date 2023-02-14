@@ -15,7 +15,7 @@ These are some of the questions we can explore:
 4) Do workers think their employers  are doing enough to address their employees mental health?
 5) Analysis for mental and physical health consequence 
 6) Are people from certain locations (state/country) more likely to have a mental health disorder?
-7) Are certain job positions more likely to have mental health problems?
+7) Are certain job type more likely to have mental health problems?
 8) Are employees at larger companies more likely to have a mental health disorder?
 9) If you have a mental health condition, do you feel that it interferes with your work?
 
