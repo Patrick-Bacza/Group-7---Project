@@ -28,8 +28,7 @@ Analysis
 
 While this subject could be studied indefinitely, we decided the following questions to be the best topics for the project:
 
-- Are employers doing enough to address their employees' mental health disorders?
-- If you have a mental health condition, how much does it interfere with your work?
-- Do work conditions such as company size reflect on the number of those with mental health disorders? 
-- Are mental health disorders more common with remote employees?
-- Does job type(Tech/NonTech) have any effect on mental health condition?
+- Does age tend to be more effected by mental health? (Stephen)
+- Are employers doing enough to address their employees' mental health disorders? (Patrick)
+- Do work conditions such as company size and remote work reflect on the number of those with mental health disorders? (Jay)
+- If you have a mental health condition, how much does it interfere with your work? (Hays)
