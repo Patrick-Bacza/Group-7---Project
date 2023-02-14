@@ -17,8 +17,8 @@ While this subject could be studied indefinitely, we decided the following quest
 - Are employers doing enough to address their employees' mental health disorders? [Employer_Analysis.ipynb]
   Employers in the tech industry are not doing enough to address their employees’ mental health. Most are not even making formal acknowledgments or offering proper services. This could be trend outside of the tech industry as well.
   
-- Are employers properly handling employee mental health/mental health data? [sm_data_cleaning.ipynb]
-  Employers are not properly handling mental health issues of their employees. Employees witnessing colleagues coming forward are less likely to discuss their mental health struggles than before.
+- Are employers properly handling employee mental health/mental health data? [sm_questions.ipynb]
+  Employers are not properly handling mental health issues of their employees. Employees witnessing colleagues coming forward with their mental health problems are less likely to discuss their mental health struggles than before.
 
 - Do work conditions such as company size, remote work, and job type reflect on the number of those with mental health disorders? [Jay_question_project.ipynb]
   People working in the tech industry have more cases of mental health disorders than those working in non-tech. And over 70% of those afflicted are working remotely.
