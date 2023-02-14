@@ -3,7 +3,7 @@
 
 #Proposal
 
-The field we are interested in working with is mental health in the tech field. Mental health is something that effects everyone's lives and it would be impactful to find insights to helps us better understand it. The data we would be working with is a survey about attitudes towards mental health in tech companies provided by Kaggle.com.
+The field we are interested in working with is mental health in the tech/non tech field. Mental health is something that effects everyone's lives and it would be impactful to find insights to helps us better understand it. The data we would be working with is a survey about attitudes towards mental health in tech companies provided by Kaggle.com.
 
 We will clean the data and will perform all the analysis including statistical analysis for data sets.
 
@@ -15,7 +15,7 @@ These are some of the questions we can explore:
 4) Do workers think their employers  are doing enough to address their employees mental health?
 5) Analysis for mental and physical health consequence 
 6) Are people from certain locations (state/country) more likely to have a mental health disorder?
-7) Are certain job positions more likely to have mental health problems?
+7) Are certain job type more likely to have mental health problems?
 8) Are employees at larger companies more likely to have a mental health disorder?
 9) If you have a mental health condition, do you feel that it interferes with your work?
 
