@@ -32,4 +32,4 @@ While this subject could be studied indefinitely, we decided the following quest
 - If you have a mental health condition, how much does it interfere with your work?
 - Do work conditions such as company size reflect on the number of those with mental health disorders? 
 - Are mental health disorders more common with remote employees?
-- Does job type have any effect on mental health condition?
+- Does job type(Tech/NonTech) have any effect on mental health condition?
